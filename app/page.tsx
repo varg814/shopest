@@ -1,8 +1,5 @@
 // import { Playwrite_RO } from "next/font/google";
 
-import Navbar from "@/components/navbar/Navbar";
-import Footer from "@/components/footer/Footer";
-
 // const gvanca = Playwrite_RO({
 //   style: "normal",
 // });

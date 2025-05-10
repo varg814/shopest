@@ -3,7 +3,7 @@ import React from "react";
 const page = () => {
   return (
     <main className="flex justify-center">
-      <div className="w-full max-w-[1280px] flex flex-col justify-center items-center gap-5 pt-[160px] pb-[20px] px-6">
+      <div className="w-full max-w-[1280px] flex flex-col justify-center items-center gap-5 pt-[160px] pb-16 px-6">
         <h1>აგროჰაბი - ხელიდან ხელში!</h1>
 
         <article>

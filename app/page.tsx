@@ -4,8 +4,12 @@
 //   style: "normal",
 // });
 // import background from "../app/download.png";
+"use client"
+import { useRouter } from 'next/navigation';
+
 
 export default function Home() {
+  const router = useRouter()
   //   return (
   //     <div
   //       className={`flex items-center flex-col justify-between`}
@@ -56,8 +60,14 @@ export default function Home() {
   //   );
   return (
     <main className="flex justify-center flex-grow">
-      <div className="w-full max-w-[1280px] pt-[160px] pb-[20px] px-6">
-        <h1>this is home page</h1>
+      <div className="w-full max-w-[1280px] pt-[160px] pb-16 px-6 flex flex-col items-center justify-around gap-8">
+        <h1 className="text-[32px] font-bold">choose a category</h1>
+        <div className="w-full flex gap-2.5 justify-center max-md:flex-col max-md:items-start">
+          <button onClick={() => router.push("/category/meats")} className="flex h-10 w-40 justify-center items-center text-2xl font-bold border border-black rounded-md flex-shrink-0">meats</button>
+          <button onClick={() => router.push("/category/drinks")} className="flex h-10 w-40 justify-center items-center text-2xl font-bold border border-black rounded-md flex-shrink-0">drinks</button>
+          <button onClick={() => router.push("/category/bakery")} className="flex h-10 w-40 justify-center items-center text-2xl font-bold border border-black rounded-md flex-shrink-0">bakery</button>
+          <button onClick={() => router.push("/category/snacks")} className="flex h-10 w-40 justify-center items-center text-2xl font-bold border border-black rounded-md flex-shrink-0">snacks</button>
+        </div>
       </div>
     </main>
   );

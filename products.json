@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Beef Steak",
+    "price": 10.99,
+    "image": "https://www.shutterstock.com/shutterstock/photos/2292399653/display_1500/stock-photo-raw-beef-steak-with-rosemary-and-peppercorns-on-white-background-2292399653.jpg",
+    "category": "meats"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Breast",
+    "price": 8.99,
+    "image": "https://www.shutterstock.com/shutterstock/photos/2506219599/display_1500/stock-photo-raw-turkey-breasts-isolated-on-a-white-background-2506219599.jpg",
+    "category": "meats"
+  },
+  {
+    "id": 3,
+    "name": "Pork Ribs",
+    "price": 15.99,
+    "image": "https://media.istockphoto.com/id/508695276/photo/raw-ribs-with-a-rosemary-and-vegetables-on-crumpled-paper.jpg?s=1024x1024&w=is&k=20&c=U3BRt2lduU5iS-S6BQllH-DNi-nqt7Xm1rkzTT2xvfw=",
+    "category": "meats"
+  },
+  {
+    "id": 4,
+    "name": "Salmon Fillet",
+    "price": 12.49,
+    "image": "https://media.istockphoto.com/id/1468279469/photo/fresh-raw-salmon-and-ingredients-for-marinade-on-light-grey-table-closeup.jpg?s=1024x1024&w=is&k=20&c=r_cYQDaYO-UgKtKm2SB4KOfkIWS3Vo9WJA3U_HQy-Hg=",
+    "category": "meats"
+  },
+  {
+    "id": 5,
+    "name": "Sausage",
+    "price": 5.99,
+    "image": "https://media.istockphoto.com/id/1351416507/photo/raw-sausages-with-rosemary-on-a-wooden-background-sausages-for-grilling-food-recipe.jpg?s=1024x1024&w=is&k=20&c=oZ8O4Mgscdli1ytTy1FrJa88oJK-VDCWekkGXPgYUy0=",
+    "category": "meats"
+  },
+  {
+    "id": 6,
+    "name": "Beef Jerky",
+    "price": 6.99,
+    "image": "https://media.istockphoto.com/id/524656349/photo/beef-jerky.jpg?s=1024x1024&w=is&k=20&c=Zqy3dZTjBF6-wIQ_ADKBMo7I0e1LTy6I1Fcgk_4AB-k=",
+    "category": "meats"
+  },
+  {
+    "id": 7,
+    "name": "Lamb Chops",
+    "price": 18.99,
+    "image": "https://media.istockphoto.com/id/1367399537/photo/raw-lamb-chop-food-concept-photo.jpg?s=1024x1024&w=is&k=20&c=TZ0Ozbf4PmbFhCl1u1sCtkp8X31DZpXHdnX-0sHMvS0=",
+    "category": "meats"
+  },
+  {
+    "id": 8,
+    "name": "Chicken Wings",
+    "price": 8.99,
+    "image": "https://media.istockphoto.com/id/489516996/photo/raw-chicken-wings-isolated-on-white-background.jpg?s=1024x1024&w=is&k=20&c=baVN4F3ssI6xpCBznVKZ7-egqdE-3o8oLd6aOzatHfU=",
+    "category": "meats"
+  },
+  {
+    "id": 9,
+    "name": "Duck Breast",
+    "price": 14.99,
+    "image": "https://media.istockphoto.com/id/617880108/photo/raw-duck-breast.jpg?s=1024x1024&w=is&k=20&c=6gh1fZJIzpH_6kuA6rzs43RiiE1KTBei17vDq0pcsPA=",
+    "category": "meats"
+  },
+  {
+    "id": 10,
+    "name": "Tuna",
+    "price": 11.49,
+    "image": "https://media.istockphoto.com/id/535390694/photo/homemade-grilled-sesame-tuna-steak.jpg?s=1024x1024&w=is&k=20&c=Hma64YaaWaFfZlxmr5ZvLlDHeCXKQAYkI1Su-uTQKXM=",
+    "category": "meats"
+  },
+  {
+    "id": 11,
+    "name": "Coca Cola",
+    "price": 1.99,
+    "image": "https://unsplash.com/s/photos/coca-cola",
+    "category": "drinks"
+  },
+  {
+    "id": 12,
+    "name": "Orange Juice",
+    "price": 2.99,
+    "image": "https://stock.adobe.com/search?k=orange+juice",
+    "category": "drinks"
+  },
+  {
+    "id": 13,
+    "name": "Apple Juice",
+    "price": 2.49,
+    "image": "https://www.istockphoto.com/photos/apple-juice",
+    "category": "drinks"
+  },
+  {
+    "id": 14,
+    "name": "Lemonade",
+    "price": 3.99,
+    "image": "https://www.istockphoto.com/photos/lemonade",
+    "category": "drinks"
+  },
+  {
+    "id": 15,
+    "name": "Iced Tea",
+    "price": 2.79,
+    "image": "https://www.shutterstock.com/search/iced-tea",
+    "category": "drinks"
+  },
+  {
+    "id": 16,
+    "name": "Energy Drink",
+    "price": 1.99,
+    "image": "https://www.istockphoto.com/photos/energy-drink",
+    "category": "drinks"
+  },
+  {
+    "id": 17,
+    "name": "Milkshake",
+    "price": 3.49,
+    "image": "https://www.istockphoto.com/photos/milkshake",
+    "category": "drinks"
+  },
+  {
+    "id": 18,
+    "name": "Sparkling Water",
+    "price": 1.29,
+    "image": "https://unsplash.com/s/photos/sparkling-water",
+    "category": "drinks"
+  },
+  {
+    "id": 19,
+    "name": "Smoothie",
+    "price": 4.99,
+    "image": "https://unsplash.com/s/photos/smoothie",
+    "category": "drinks"
+  },
+  {
+    "id": 20,
+    "name": "Juice Box",
+    "price": 0.99,
+    "image": "https://www.shutterstock.com/search/juice-box",
+    "category": "drinks"
+  },
+  {
+    "id": 21,
+    "name": "Chips",
+    "price": 1.49,
+    "image": "https://www.istockphoto.com/photos/chips",
+    "category": "snacks"
+  },
+  {
+    "id": 22,
+    "name": "Popcorn",
+    "price": 2.29,
+    "image": "https://www.istockphoto.com/photos/popcorn",
+    "category": "snacks"
+  },
+  {
+    "id": 23,
+    "name": "Chocolate Bar",
+    "price": 1.79,
+    "image": "https://www.istockphoto.com/photos/chocolate-bar",
+    "category": "snacks"
+  },
+  {
+    "id": 24,
+    "name": "Cookies",
+    "price": 3.49,
+    "image": "https://www.istockphoto.com/photos/cookies",
+    "category": "snacks"
+  },
+  {
+    "id": 25,
+    "name": "Muffin",
+    "price": 2.59,
+    "image": "https://www.istockphoto.com/photos/muffin",
+    "category": "snacks"
+  },
+  {
+    "id": 26,
+    "name": "Gummy Bears",
+    "price": 1.99,
+    "image": "https://www.istockphoto.com/photos/gummy-bears",
+    "category": "snacks"
+  },
+  {
+    "id": 27,
+    "name": "Granola Bar",
+    "price": 2.19,
+    "image": "https://www.istockphoto.com/photos/granola-bar",
+    "category": "snacks"
+  },
+  {
+    "id": 28,
+    "name": "Pretzels",
+    "price": 1.99,
+    "image": "https://www.istockphoto.com/photos/pretzels",
+    "category": "snacks"
+  },
+  {
+    "id": 29,
+    "name": "Rice Cakes",
+    "price": 3.29,
+    "image": "https://www.shutterstock.com/search/rice-cakes",
+    "category": "snacks"
+  },
+  {
+    "id": 30,
+    "name": "Cheese Puffs",
+    "price": 2.99,
+    "image": "https://www.istockphoto.com/photos/cheese-puffs",
+    "category": "snacks"
+  },
+  {
+    "id": 31,
+    "name": "Croissant",
+    "price": 1.99,
+    "image": "https://www.istockphoto.com/photos/croissant",
+    "category": "bakery"
+  },
+  {
+    "id": 32,
+    "name": "Bagel",
+    "price": 2.39,
+    "image": "https://www.istockphoto.com/photos/bagel",
+    "category": "bakery"
+  },
+  {
+    "id": 33,
+    "name": "Donut",
+    "price": 1.99,
+    "image": "https://www.istockphoto.com/photos/donut",
+    "category": "bakery"
+  },
+  {
+    "id": 34,
+    "name": "Brioche",
+    "price": 3.29,
+    "image": "https://www.istockphoto.com/photos/brioche",
+    "category": "bakery"
+  },
+  {
+    "id": 35,
+    "name": "Danish Pastry",
+    "price": 2.99,
+    "image": "https://www.istockphoto.com/photos/danish-pastry",
+    "category": "bakery"
+  },
+  {
+    "id": 36,
+    "name": "Cinnamon Roll",
+    "price": 2.49,
+    "image": "https://www.istockphoto.com/photos/cinnamon-roll",
+    "category": "bakery"
+  },
+  {
+    "id": 37,
+    "name": "Scone",
+    "price": 2.99,
+    "image": "https://www.istockphoto.com/photos/scone",
+    "category": "bakery"
+  },
+  {
+    "id": 38,
+    "name": "Pita Bread",
+    "price": 1.69,
+    "image": "https://www.istockphoto.com/photos/pita-bread",
+    "category": "bakery"
+  },
+  {
+    "id": 39,
+    "name": "Focaccia",
+    "price": 3.49,
+    "image": "https://www.istockphoto.com/photos/focaccia",
+    "category": "bakery"
+  },
+  {
+    "id": 40,
+    "name": "Muffin",
+    "price": 2.29,
+    "image": "https://www.istockphoto.com/photos/muffin",
+    "category": "bakery"
+  }
+]
